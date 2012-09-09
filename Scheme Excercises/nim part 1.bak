@@ -1,0 +1,2 @@
+(define 4rows '((X) (X X X) (X X X X X) (X X X X X X X)))
+(define 3rows '((X X X X) (X X X) (X X X X X)))
